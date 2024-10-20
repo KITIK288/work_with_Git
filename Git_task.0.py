@@ -1,7 +1,6 @@
 def hello():
     print("Hello world")
 
-
 def buy():
     print("bye")
 
@@ -11,6 +10,10 @@ def hello_there():
         print("Hello there")
         counter += 1
 
+def miymmiymiy():
+    print("Мяу мяу мяу")
+
 hello_there()
 hello()
 buy()
+miymmiymiy()
